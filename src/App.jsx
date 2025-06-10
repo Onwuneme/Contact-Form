@@ -70,7 +70,7 @@ function App() {
           onSubmit={handleSubmit}
           className="bg-white rounded-2xl p-5 md:w-180 lg:w-220 md:m-auto flex flex-col md:grid grid-cols-2 gap-4"
         >
-          <h1 className="text-3xl font-bold mb-10 col-span-2">Contact Them</h1>
+          <h1 className="text-3xl font-bold mb-10 col-span-2">Contact Us</h1>
           <div className="">
             <label>
               First Name <span className="text-green-600">*</span>
